@@ -1,5 +1,6 @@
 # nginx, docker, vueJS, nodeJS
-Configs and sample files for vueJS and expressJS apps running on nginx
+Configs and sample files for vueJS and expressJS apps running on nginx.
+I collected the for me most meaningful snippets. Most of them i use in production apps or for development.
 
 ## Examples
 
