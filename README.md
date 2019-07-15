@@ -1,4 +1,4 @@
-# nginx
+# nginx, docker, vueJS, nodeJS
 Configs and sample files for vueJS and expressJS apps running on nginx
 
 ## Config
