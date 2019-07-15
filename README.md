@@ -1,5 +1,5 @@
 # nginx
-Configs and sample files for nginx webservers
+Configs and sample files for vueJS and expressJS apps running on nginx
 
 ## Config
 
