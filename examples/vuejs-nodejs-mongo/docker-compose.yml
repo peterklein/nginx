@@ -1,7 +1,7 @@
 version: "3.7"
 
 services:
-  api:
+  backend:
     build: ./backend
     environment:
       - MONGO_URI=mongodb://mongodb:27017/rest-api
@@ -13,9 +13,9 @@ services:
       - mongodb
 
   client:
-    build: ./frontend
+    build: ./client
     volumes:
-      - ./frontend:/app
+      - ./client:/app
       - /app/node_modules/
     ports:
       - "8080:8080"
