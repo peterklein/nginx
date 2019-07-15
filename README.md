@@ -3,7 +3,7 @@ Configs and sample files for vueJS and expressJS apps running on nginx
 
 ## Examples
 
-[vueJS app with expressJS and mongoDB](https://github.com/peterklein/nginx-docker-vue-node/blob/master/examples/vuejs-nodejs-mongo/docker-compose.yml)
+[vueJS app with expressJS and mongoDB](https://github.com/peterklein/nginx-docker-vue-node/blob/master/examples/vuejs-nodejs-mongo)
 
 ## Config
 
